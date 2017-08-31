@@ -1,0 +1,5 @@
+	*.img
+  *.raw
+  *.xz
+  *.vdi
+  *.vmdi
