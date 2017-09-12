@@ -1,5 +1,9 @@
-	*.img
-  *.raw
-  *.xz
-  *.vdi
-  *.vmdi
+*.img
+*.raw
+*.xz
+*.vdi
+*.vmdk
+*.qcow
+*.qcow2
+packer_cache
+packer/output-dojot
